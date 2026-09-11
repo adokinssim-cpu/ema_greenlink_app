@@ -1,0 +1,19 @@
+{
+  "@@locale": "fr",
+  "appTitle": "EMA GreenLink",
+  "homeSubtitle": "Marketplace des énergies renouvelables au Bénin",
+  "description": "Description",
+  "stock": "Stock",
+  "addToCart": "Ajouter au panier",
+  "addedToCart": "Produit ajouté au panier !",
+  "cart": "Panier",
+  "emptyCart": "Votre panier est vide",
+  "total": "Total",
+  "order": "Commander",
+  "orderPlaced": "Commande passée avec succès !",
+  "profile": "Profil",
+  "location": "Localisation",
+  "company": "Entreprise",
+  "plan": "Plan",
+  "orders": "Commandes"
+}

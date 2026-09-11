@@ -1,0 +1,19 @@
+{
+  "@@locale": "en",
+  "appTitle": "EMA GreenLink",
+  "homeSubtitle": "Renewable energy marketplace in Benin",
+  "description": "Description",
+  "stock": "Stock",
+  "addToCart": "Add to cart",
+  "addedToCart": "Product added to cart!",
+  "cart": "Cart",
+  "emptyCart": "Your cart is empty",
+  "total": "Total",
+  "order": "Order",
+  "orderPlaced": "Order placed successfully!",
+  "profile": "Profile",
+  "location": "Location",
+  "company": "Company",
+  "plan": "Plan",
+  "orders": "Orders"
+}
