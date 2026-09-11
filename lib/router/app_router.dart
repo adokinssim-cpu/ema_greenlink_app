@@ -5,6 +5,7 @@ import 'package:ema_greenlink_app/screens/home_screen.dart';
 import 'package:ema_greenlink_app/screens/product_detail_screen.dart';
 import 'package:ema_greenlink_app/screens/cart_screen.dart';
 import 'package:ema_greenlink_app/screens/profile_screen.dart';
+import 'package:ema_greenlink_app/screens/favorites_screen.dart';
 import 'package:ema_greenlink_app/models/product.dart';
 
 final routerProvider = Provider<GoRouter>((ref) {
@@ -33,6 +34,10 @@ final routerProvider = Provider<GoRouter>((ref) {
       GoRoute(
         path: '/profile',
         builder: (context, state) => const ProfileScreen(),
+      ),
+      GoRoute(
+        path: '/favorites',
+        builder: (context, state) => const FavoritesScreen(),
       ),
     ],
   );
